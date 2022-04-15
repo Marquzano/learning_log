@@ -1,0 +1,4 @@
+# if anybody would ever like to run this project on their laptop
+# they need to add the following if they ever cloned this repo
+learning_log/settings.py
+ll_env/lib/python3.9/site-packages/django/db/backends/mysql/client.py
